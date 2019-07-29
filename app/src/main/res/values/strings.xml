@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuickReminder</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_reminder_placeholder">Digite seu lembrete aqui</string>
+    <string name="add_reminder_decorator">+</string>
+    <string name="empty_list_message">Você não tem nenhum lembrete.</string>
+
+    <string name="no_reminders_found">Nenhum lembrete</string>
+    <string name="reminder_singular">lembrete</string>
+    <string name="reminder_plural">lembretes</string>
+</resources>

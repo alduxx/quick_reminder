@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2399FF</color>
+    <color name="colorPrimaryDark">#2399AF</color>
+    <color name="colorPrimaryLight">#2399AF</color>
+
+    <color name="colorSecondary">#808FA0</color>
+    <color name="colorSecondaryDark">#808FA0</color>
+    <color name="colorSecondaryLight">#C0CBD2</color>
+    <color name="colorSecondaryLighter">#D7DEE3</color>
+
+    <color name="colorAccent">#FF7791</color>
+    <color name="colorError">#FF7791</color>
+
+    <color name="colorAppBackground">#FAFAFA</color>
+
+    <!-- color name="white">#FFFFFF</color> -->
+
+</resources>
